@@ -24,7 +24,7 @@ const ContactPage: React.FC = () => {
                 📞 <strong>Téléphone :</strong> +243 972 123 456
               </li>
               <li>
-                ✉️ <strong>Email :</strong> contact@mgbuilders.cd
+                ✉️ <strong>Email :</strong> etsmgbuildersservices@gmail.com
               </li>
               <li>
                 🕒 <strong>Heures d'ouverture :</strong> Lun - Sam : 8h00 - 17h00
