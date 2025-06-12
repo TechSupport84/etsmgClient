@@ -21,7 +21,7 @@ const ContactPage: React.FC = () => {
                 📍 <strong>Adresse :</strong> Avenue Munua n°45, Lubumbashi, Haut-Katanga, RDC
               </li>
               <li>
-                📞 <strong>Téléphone :</strong> +243 972 123 456
+                📞 <strong>Téléphone :</strong> +243 ********
               </li>
               <li>
                 ✉️ <strong>Email :</strong> etsmgbuildersservices@gmail.com
