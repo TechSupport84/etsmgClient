@@ -1,6 +1,6 @@
 
 import './App.css'
-import Navbar from './app/NavBar'
+import Navbar from './app/Navbar'
 import AboutPage from './components/AboutPage';
 import Footer from './components/Footer';
 import HomePage from './components/HomePage'
